@@ -19,7 +19,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 sudo apt-get upgrade
 〰➖〰➖〰➖〰➖〰
 🈂 بـعـديـن خـلـي / وانتر
-git clone https://github.com/krstal/CrYsTaL.git
+git clone https://github.com/AMORE1111/karstal.git
 
 〰➖〰➖〰➖〰➖〰
 🌀️ وراهه خـلـي هذا كود / وانتر
@@ -44,6 +44,6 @@ cd CrYsTaL
 #ملاحظة انتضر لحد ميكمل ويطلب رقم تلفون
 〰➖〰➖〰➖〰➖〰
 
-🚁 - DevLoper : @xXxDev_iqxXx
+🚁 - DevLoper : @iq_110
 🚀 - Channel : @Team_faeder
-                         @dev_faed
+                        
